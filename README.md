@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DereckVillalobos&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=c9184a&text_color=8892a4&langs_count=6&card_width=280&border_radius=8"/>
 
-Engineering student. Universidad Fidélitas, Costa Rica.  
+Data Science Engineering student. Universidad Fidélitas, Costa Rica.  
 50% through a Data Science Engineering degree — graduating July 2027.
 
 I compete in **ICPC** in C++, build AI agents for real operations,  
@@ -22,8 +22,7 @@ and clean data for a living. Current project: a WhatsApp bot running
 inventory + orders for a family business in Puntarenas.
 
 **IEEE Costa Rica** — active member.  
-Competed at **Qiskit Fall Fest PNC 2025** — quantum-classical hybrid track.  
-Thinking about graph-based LLM memory more than is reasonable.
+Competed at **Qiskit Fall Fest PNC 2025 and Quantum Hackathon LATAM** 
 
 <br clear="right"/>
 
@@ -101,11 +100,11 @@ Thinking about graph-based LLM memory more than is reasonable.
 ### `log`
 
 ```text
-ICPC          →  C++ · STL · graphs · DP · segment trees · Codeforces daily
-Teo v3        →  Flask + Claude API + Sheets · WhatsApp AI · 3 Regalos, Puntarenas
-Qiskit        →  Fall Fest PNC 2025 · quantum-classical hybrid · IBM
-data          →  cleaning pipelines · EDA · Power BI · R · Python
-IEEE          →  Costa Rica chapter · active member
+ICPC                     →  C++ · STL · graphs · DP · segment trees · Codeforces daily
+Teo v3                   →  Flask + Claude API + Sheets · WhatsApp AI · 3 Regalos, Puntarenas
+Quantum Computing        →  Qiskit Fall Fest PNC 2025 · Quantum Hackathon LATAM 2025
+data                     →  cleaning pipelines · EDA · Power BI · R · Python
+IEEE                     →  Costa Rica chapter · active member
 ```
 
 ---
